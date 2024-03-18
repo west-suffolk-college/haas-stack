@@ -1,6 +1,6 @@
 [submodule "haas-backend"]
 	path = haas-backend
 	url = git@github.com:west-suffolk-college/haas-backend.git
-[submodule "haas-stack"]
-	path = haas-stack
-	url = git@github.com:west-suffolk-college/haas-stack.git
+[submodule "haas-client"]
+	path = haas-client
+	url = git@github.com:west-suffolk-college/haas-client.git
