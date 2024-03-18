@@ -1,19 +1,19 @@
-# haas-stack
+## haas-stack
 
 # features-frontend
 
 - [ ] 3d Model - using g code to dsiplay a tool path and render
-- [ ] Live Update Graph - 
-- [ ] predictive ware
-- [ ] Error reporting (Notifications)
-- [ ] Sensor readings such as temperature.
-- [ ] Machine Information
+- [ ] Live Update Graph - show sesnor data
+- [ ] predictive ware - predict when tools break 
+- [ ] Error reporting (Notifications) - alert user when tools break
+- [ ] Sensor readings such as temperature. - show machine sensor readings
+- [ ] Machine Information - miscolaneuous machine data
 
 # featrues-backend
 
-- [x] login system
-- [ ] machine communications
-- [ ] machine data 
-- [ ] database connection
-- [ ] data filtering
-- [ ] expose raw data
+- [x] login system - accout login
+- [ ] machine communications - connect to machines to acsess data
+- [ ] machine data - expose machine data to clients
+- [ ] database connection - allow connecting to account database
+- [ ] data filtering - filter data into useable sections
+- [ ] expose raw data - allow raw data to be seen for advanced users
