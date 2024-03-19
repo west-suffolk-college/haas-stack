@@ -12,6 +12,7 @@
 # featrues-backend
 
 - [x] login system - accout login
+- [ ] user account control - edit user account details
 - [ ] machine communications - connect to machines to acsess data
 - [ ] machine data - expose machine data to clients
 - [ ] database connection - allow connecting to account database
