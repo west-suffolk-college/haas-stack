@@ -20,6 +20,7 @@
 - [ ] user account control - edit user account details
 - [ ] machine communications - connect to machines to acsess data
 - [ ] machine data - expose machine data to clients
+- [ ] predictive ware server side compute
 - [ ] database connection - allow connecting to account database
 - [ ] data filtering - filter data into useable sections
 - [ ] expose raw data - allow raw data to be seen for advanced users
