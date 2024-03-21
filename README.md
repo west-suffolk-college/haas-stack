@@ -8,6 +8,11 @@
 - [ ] Error reporting (Notifications) - alert user when tools break
 - [ ] Sensor readings such as temperature. - show machine sensor readings
 - [ ] Machine Information - miscolaneuous machine data
+- [ ] speed and feed calculator
+- [ ] guides and refrences
+- [ ] ability to purchase haasapp tooling
+- [ ] download machine specific infomation and activity
+- [ ] show override status for feed and spindle
 
 # featrues-backend
 
@@ -18,3 +23,5 @@
 - [ ] database connection - allow connecting to account database
 - [ ] data filtering - filter data into useable sections
 - [ ] expose raw data - allow raw data to be seen for advanced users
+- [ ] haasdrop reimplemtation
+- [ ] machine event trigger
